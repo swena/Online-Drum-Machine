@@ -1,0 +1,39 @@
+.DrumControls {
+	display: flex;
+}
+
+.DrumControls-control {
+	margin-left: 10px;
+}
+
+.DrumControls-stop button,
+.DrumControls-play button {
+	font-size: 30px;
+    width: 40px;
+    height: 40px;
+    color: #aaa;
+    border-radius: 5px;
+    border: 1px solid #1b1613;
+    background: #202020 url(https://drumbit.app/images/ui-bg_inset-soft_40_202020_1x100.png) 50% 50% repeat-x;
+}
+
+.DrumControls-tempo {
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 40px;
+}
+.DrumControls-tempo input{
+	font-size: 16px;
+	width: 40px;
+	height: 34px;
+    background: #aaa;
+    border: 0px;
+    border-radius: 5px;
+}
+.DrumControls-sequenceSelector select{
+	height: 40px;
+	font-size: 16px;
+	background: #aaa;
+    border: 0px;
+    border-radius: 5px;
+}

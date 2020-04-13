@@ -1,0 +1,23 @@
+.DrumMachine {
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	width: 70%;
+	margin: auto;
+	font-family: sans-serif;
+	background: #3f3f3f;
+	color: #aaa;
+}
+
+.DrumMachine-header .DrumMachine-name {
+	margin: 0;
+}
+
+.DrumMachine-header {
+	margin-bottom: 10px;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+
+
