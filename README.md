@@ -1,4 +1,4 @@
-'''DRUM MACHINE PROJECT'''
+```DRUM MACHINE PROJECT```
 
 The Drum Machine implemented has following features:
 * Play & stop controls.
